@@ -49,7 +49,7 @@
 
 ## 实战记录
 
-这套模板用于 [cs2-skin-price-trend](https://github.com/) 项目时，实际拦下的问题：
+这套模板用于 [cs2-skin-price-trend](https://github.com/jiuhuweisi-maker/cs2-skin-price-trend) 项目时，实际拦下的问题：
 
 - BUFF 接口硬上限 365 天 → 没有硬凑 2022 年数据，而是换了数据源并说明
 - 2023-10 混进一个 ¥67 的异常成交 → 按月中位数过滤，过滤条数写进 CSV
